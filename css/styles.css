@@ -1,0 +1,189 @@
+#title {
+background-color: #ff4c68
+}
+
+h1 {
+  font-style: "Montserrat";
+}
+
+h2 {
+  font-family: "Montserrat-black"
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+h3 {
+  font-family: "Montserrat-black"
+  color: white;
+  text-align: center;
+  padding-top: 3%;
+}
+
+#title  {
+  font-style: "Montserrat";
+  color: white;
+  height: 700px;
+}
+
+.container-fluid {
+padding: 3% 15% 7%;
+height: 900px;
+}
+
+.rotated {
+transform: rotate(25deg);
+width: 60%;
+position: absolute;
+right: 30%;
+}
+
+.row {
+padding: 50px 10px;
+}
+
+/* Navbar */
+
+.nav-item {
+padding: 18px;
+}
+
+.nav-limk {
+padding: 15px;
+font-style: "Montserrat-light"
+}
+
+.navbar {
+  padding: 0 0 50px;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu';
+  font-size: 30px;
+  background-color: "black";
+}
+
+/* Dowload button */
+.dowload-button {
+margin: 5% 3% 5% 0;
+}
+
+.test12 {
+  padding-right: 6px;
+}
+
+.test13 {
+  padding-right: 6px;
+}
+
+
+/* features */
+
+.feature-box {
+  padding: 2.5% 8%;
+  text-align: center;
+}
+
+.icons {
+  color: #ef8181;
+  padding-bottom: 4px;
+}
+
+.icons:hover {
+ color: #ff4c68;
+
+}
+
+#features {
+  background-color: #fff;
+  position: relative;
+  z-index: 1;
+}
+
+#h3 {
+  font-family: "Montserrat-bold";
+  font-size: 1.5rem;
+}
+
+#row {
+  text-align: : center;
+}
+
+#featurefont{
+  color: #8f8f8f;
+}
+
+/* testimonials */
+
+#testimonials {
+  padding: 7% 15%;
+text-align: center;
+background-color: #ff4c68;
+color: #fff
+}
+
+.testimonials-image {
+  border-radius: 90%;
+  width: 15%;
+  margin: 50px;
+}
+
+/* Press section */
+
+#press {
+  background-color: #ff4c68;
+ padding-bottom: 3%;
+ text-align: center;
+}
+
+.press-logo {
+  width: 15%;
+ margin: 20px 20px 50px;
+}
+
+.carousel-item: {
+  padding: 7% 15%;
+}
+
+.carousel-indicators{
+}
+
+/* pricing  */
+
+#pricing {
+padding: 8%;
+
+}
+
+.pricing-colum {
+padding: 3% 2%;
+
+}
+
+/*  Call to Action */
+
+#cta {
+  height: 200px;
+  background-color: #ff4c68;
+  text-align: center;
+}
+
+.btnbottom {
+  margin: 10px 5px;
+}
+
+/* footer */
+
+#footer{
+  text-align: center;
+}
+
+.iconbottom {
+  padding: 10px 10px;
+}
+a{
+  color: #3b5998;
+}
+
+.instagram {
+ color: #d6249f;
+}
